@@ -1,0 +1,7 @@
+numero = int(input("Informe um número Inteiro:")
+quadrad = math.pow (numero,2)
+cubo =  math.pow (numero,3)
+raiz = math.sqrt(numero)
+print("Esse  número elevado ao quadrado é:",quadrad)
+print("Esse  número elevado ao cubo é:",cubo)
+print("A raiz é:",raiz)

@@ -1,0 +1,17 @@
+prg = ["Pedro","Gabriela","Sabrina","Carlos","Lucas"]
+print("Programadores =>", prg)
+prg[1] = "Pedro Henrique"
+print("Programadores =>", prg)
+prg.append("Ana Paula")
+print("Programadores =>", prg)
+prg.insert(3,"André")
+print("Programadores =>", prg)
+prg.pop(2)
+print("Programadores =>", prg)
+prg.remove("Ana Paula")
+print("Programadores =>", prg)
+#prg.clear()
+prg.sort()
+print("Programadores =>", prg)
+prg.reverse()
+print("Programadores =>", prg)
